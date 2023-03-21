@@ -7,7 +7,7 @@
 
 |![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)|![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)|![](https://img.shields.io/badge/-GCP-black?logo=googlecloud&style=plastic)|![](https://img.shields.io/badge/-Azure-black?logo=microsoftazure&style=plastic)|![](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=plastic)|
 |---|---|---|---|
-|![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic)|![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)|![]|
+|![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic)|![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)|
 
 ### 📕 Latest Blog posts
 
