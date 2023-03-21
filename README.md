@@ -6,6 +6,10 @@ I am _Tom Brooks_. I build things in Python
 He/Him
 
 ### 🌱 My Projects
+My bootcamp project was a medical NLP, training a version of ChatGPT to anonymise medical records in partnership with Guy as St Thomas’ Hospital so they could be made available for data scientists outside the hospital.
+https://nabillawrence-endogpt-websiteappmain-5v2wnl.streamlit.app/
+https://github.com/NabilLawrence/EndoGPT
+![image](https://user-images.githubusercontent.com/76474068/226667719-72f04a25-3902-41ed-a9a6-9b67828af353.png)
 
 
 
