@@ -6,7 +6,7 @@ I am _Tom Brooks_. I build things in Python
 He/Him
 
 ### 🌱 My Projects
-#### EndoGPT
+#### :ambulance: EndoGPT
 EndoGPT is a medical NLP, we trained a version of ChatGPT(BioGPT) to generate synthetic endoscopy reports, which include long sections of free text, in partnership with Guy's and St Thomas’ Hospital. This anonomysises the data sufficient for the ethics board to approve releasing the reports to data scientists outside the hospital.\
 https://nabillawrence-endogpt-websiteappmain-5v2wnl.streamlit.app/ \
 https://github.com/NabilLawrence/EndoGPT
