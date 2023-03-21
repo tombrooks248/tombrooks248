@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hello, geeks! 👋
 
+I am _Tom Brooks_. I build things in Python
+
+### 😄 Pronouns
+He/Him
+
+### 🌱 My Projects
 
 
 
