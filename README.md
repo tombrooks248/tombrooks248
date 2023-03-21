@@ -7,9 +7,7 @@ He/Him
 
 ### 🌱 My Projects
 My bootcamp project was a medical NLP, training a version of ChatGPT to anonymise medical records in partnership with Guy as St Thomas’ Hospital so they could be made available for data scientists outside the hospital.
-
 https://nabillawrence-endogpt-websiteappmain-5v2wnl.streamlit.app/
-
 https://github.com/NabilLawrence/EndoGPT
 
 
