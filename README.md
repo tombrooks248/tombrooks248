@@ -5,11 +5,8 @@
 
 ### My top 10 technologies
 
-|![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)|![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)|![](https://img.shields.io/badge/-GCP-black?logo=googlecloud&style=plastic)|![](https://img.shields.io/badge/-NumPy-black?logo=numpy&style=plastic)|![](https://img.shields.io/badge/-Pandas-black?logo=pandas&style=plastic)|
+|![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)|![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)|![](https://img.shields.io/badge/-GCP-black?logo=googlecloud&style=plastic)|![](https://img.shields.io/badge/-NumPy-black?logo=numpy&style=plastic)|![](https://img.shields.io/badge/-Pandas-black?logo=pandas&style=plastic)|![](https://img.shields.io/badge/-Git-black?logo=git&style=plastic)|
 
-|---|---|---|---|
-
-|![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic)|
 
 
 
