@@ -11,7 +11,11 @@ EndoGPT is a medical NLP, we trained a version of ChatGPT(BioGPT) to generate sy
 https://nabillawrence-endogpt-websiteappmain-5v2wnl.streamlit.app/ \
 https://github.com/NabilLawrence/EndoGPT
 
-
+#### 🩻 X-ray Analyser
+X-ray Analyser is a simple Neural Network trained on [this set of X-rays from kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+The model is built using Tensor Flow Sequential. It has an accuracy of 86%. 
+https://tombrooks248-x-ray-appapp-9pmb2z.streamlit.app/
+https://github.com/tombrooks248/x-ray
 
 
 ### My technologies
