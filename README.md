@@ -12,7 +12,7 @@ https://nabillawrence-endogpt-websiteappmain-5v2wnl.streamlit.app/ \
 https://github.com/NabilLawrence/EndoGPT
 
 #### 🩻 X-ray Analyser
-X-ray Analyser is a simple Neural Network trained on [this set of X-rays from kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia). Which can identify X-rays which show symptoms of Pneumonia and those which do not. The model is built using Tensor Flow Sequential. It has an accuracy of 86%. \
+X-ray Analyser is a simple Neural Network trained on [this set of X-rays from kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia). Which can identify X-rays which show symptoms of Pneumonia and those which do not. The model is built using Tensor Flow Sequentian and has an accuracy of 86%. \
 https://tombrooks248-x-ray-appapp-9pmb2z.streamlit.app/ \
 https://github.com/tombrooks248/x-ray
 
