@@ -1,4 +1,4 @@
-# Hello, geeks! 👋
+# Hello, 👋
 
 I am _Tom Brooks_. I build things in Python
 
